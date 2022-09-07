@@ -10,3 +10,6 @@ dist
 dist-ssr
 *.local
 /src/Meta.ts
+
+# Local Netlify folder
+.netlify
